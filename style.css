@@ -71,8 +71,8 @@ form button {
     font-size: 18px;
     /* box-shadow: 10px 10px 20px rgb(19, 19, 19); */
     /* background-color: aqua; */
-    background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
- background-blend-mode: multiply,multiply;
+    background: rgb(131,58,180);
+background: linear-gradient(315deg, rgba(131,58,180,1) 0%, rgba(22,21,21,1) 50%, rgba(252,176,69,1) 100%);
     align-items: center;
 
 }
